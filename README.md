@@ -1,1 +1,2 @@
-# Hotel-Managment
+# Paradise-Resort-Management
+
